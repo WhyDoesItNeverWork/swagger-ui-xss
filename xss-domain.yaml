@@ -1,4 +1,4 @@
-swagger: '2.0'
+swagger: '4.15.5'
 info:
   title: XSS test
   description: |
